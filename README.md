@@ -18,8 +18,8 @@ To test the API you can use tools like Insomnia or Postman. Here are some of the
 
 ## Demonstration
 
-A walkthrough of the video demonstrating the functionality of the API can be found **[here.]()**<br>
-![GIF]()
+A walkthrough of the video demonstrating the functionality of the API can be found **[here.](https://drive.google.com/file/d/1DJtabqKKO1_Vf6CanI1GsNDgF1v2zPIM/view)**<br><br>
+![GIF](./assets/Untitled_%20Aug%201,%202024%201_54%20PM.gif)
 
 ## License
 
